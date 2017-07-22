@@ -1,0 +1,1057 @@
+/* Countries Sprite
+========================================================================== */
+
+
+.country {
+  display: block;
+  width: 36px;
+  height: 36px;
+}
+
+.country-abkhazia {
+	background: url("../images/countries/sprite.svg") 6.25% 0 no-repeat;
+}
+
+.country-afghanistan {
+	background: url("../images/countries/sprite.svg") 68.75% 66.66666666666667% no-repeat;
+}
+
+.country-aland-islands {
+	background: url("../images/countries/sprite.svg") 0 6.666666666666667% no-repeat;
+}
+
+.country-albania {
+	background: url("../images/countries/sprite.svg") 6.25% 6.666666666666667% no-repeat;
+}
+
+.country-algeria {
+	background: url("../images/countries/sprite.svg") 12.5% 0 no-repeat;
+}
+
+.country-american-samoa {
+	background: url("../images/countries/sprite.svg") 12.5% 6.666666666666667% no-repeat;
+}
+
+.country-andorra {
+	background: url("../images/countries/sprite.svg") 0 13.333333333333334% no-repeat;
+}
+
+.country-angola {
+	background: url("../images/countries/sprite.svg") 6.25% 13.333333333333334% no-repeat;
+}
+
+.country-anguilla {
+	background: url("../images/countries/sprite.svg") 12.5% 13.333333333333334% no-repeat;
+}
+
+.country-antigua-and-barbuda {
+	background: url("../images/countries/sprite.svg") 18.75% 0 no-repeat;
+}
+
+.country-argentina {
+	background: url("../images/countries/sprite.svg") 18.75% 6.666666666666667% no-repeat;
+}
+
+.country-armenia {
+	background: url("../images/countries/sprite.svg") 18.75% 13.333333333333334% no-repeat;
+}
+
+.country-aruba {
+	background: url("../images/countries/sprite.svg") 0 20% no-repeat;
+}
+
+.country-australia {
+	background: url("../images/countries/sprite.svg") 6.25% 20% no-repeat;
+}
+
+.country-austria {
+	background: url("../images/countries/sprite.svg") 12.5% 20% no-repeat;
+}
+
+.country-azerbaijan {
+	background: url("../images/countries/sprite.svg") 18.75% 20% no-repeat;
+}
+
+.country-azores-islands {
+	background: url("../images/countries/sprite.svg") 25% 0 no-repeat;
+}
+
+.country-bahamas {
+	background: url("../images/countries/sprite.svg") 25% 6.666666666666667% no-repeat;
+}
+
+.country-bahrain {
+	background: url("../images/countries/sprite.svg") 25% 13.333333333333334% no-repeat;
+}
+
+.country-balearic-islands {
+	background: url("../images/countries/sprite.svg") 25% 20% no-repeat;
+}
+
+.country-bangladesh {
+	background: url("../images/countries/sprite.svg") 0 26.666666666666668% no-repeat;
+}
+
+.country-barbados {
+	background: url("../images/countries/sprite.svg") 6.25% 26.666666666666668% no-repeat;
+}
+
+.country-basque-country {
+	background: url("../images/countries/sprite.svg") 12.5% 26.666666666666668% no-repeat;
+}
+
+.country-belarus {
+	background: url("../images/countries/sprite.svg") 18.75% 26.666666666666668% no-repeat;
+}
+
+.country-belgium {
+	background: url("../images/countries/sprite.svg") 25% 26.666666666666668% no-repeat;
+}
+
+.country-belize {
+	background: url("../images/countries/sprite.svg") 31.25% 0 no-repeat;
+}
+
+.country-benin {
+	background: url("../images/countries/sprite.svg") 31.25% 6.666666666666667% no-repeat;
+}
+
+.country-bermuda {
+	background: url("../images/countries/sprite.svg") 31.25% 13.333333333333334% no-repeat;
+}
+
+.country-bhutan {
+	background: url("../images/countries/sprite.svg") 31.25% 20% no-repeat;
+}
+
+.country-bolivia {
+	background: url("../images/countries/sprite.svg") 31.25% 26.666666666666668% no-repeat;
+}
+
+.country-bonaire {
+	background: url("../images/countries/sprite.svg") 0 33.333333333333336% no-repeat;
+}
+
+.country-bosnia-and-herzegovina {
+	background: url("../images/countries/sprite.svg") 6.25% 33.333333333333336% no-repeat;
+}
+
+.country-botswana {
+	background: url("../images/countries/sprite.svg") 12.5% 33.333333333333336% no-repeat;
+}
+
+.country-brazil {
+	background: url("../images/countries/sprite.svg") 18.75% 33.333333333333336% no-repeat;
+}
+
+.country-british-columbia {
+	background: url("../images/countries/sprite.svg") 25% 33.333333333333336% no-repeat;
+}
+
+.country-british-indian-ocean-territory {
+	background: url("../images/countries/sprite.svg") 31.25% 33.333333333333336% no-repeat;
+}
+
+.country-british-virgin-islands {
+	background: url("../images/countries/sprite.svg") 37.5% 0 no-repeat;
+}
+
+.country-brunei {
+	background: url("../images/countries/sprite.svg") 37.5% 6.666666666666667% no-repeat;
+}
+
+.country-bulgaria {
+	background: url("../images/countries/sprite.svg") 37.5% 13.333333333333334% no-repeat;
+}
+
+.country-burkina-faso {
+	background: url("../images/countries/sprite.svg") 37.5% 20% no-repeat;
+}
+
+.country-burundi {
+	background: url("../images/countries/sprite.svg") 37.5% 26.666666666666668% no-repeat;
+}
+
+.country-cambodia {
+	background: url("../images/countries/sprite.svg") 37.5% 33.333333333333336% no-repeat;
+}
+
+.country-cameroon {
+	background: url("../images/countries/sprite.svg") 0 40% no-repeat;
+}
+
+.country-canada {
+	background: url("../images/countries/sprite.svg") 6.25% 40% no-repeat;
+}
+
+.country-canary-islands {
+	background: url("../images/countries/sprite.svg") 12.5% 40% no-repeat;
+}
+
+.country-cape-verde {
+	background: url("../images/countries/sprite.svg") 18.75% 40% no-repeat;
+}
+
+.country-cayman-islands {
+	background: url("../images/countries/sprite.svg") 25% 40% no-repeat;
+}
+
+.country-central-african-republic {
+	background: url("../images/countries/sprite.svg") 31.25% 40% no-repeat;
+}
+
+.country-ceuta {
+	background: url("../images/countries/sprite.svg") 37.5% 40% no-repeat;
+}
+
+.country-chad {
+	background: url("../images/countries/sprite.svg") 43.75% 0 no-repeat;
+}
+
+.country-chile {
+	background: url("../images/countries/sprite.svg") 43.75% 6.666666666666667% no-repeat;
+}
+
+.country-china {
+	background: url("../images/countries/sprite.svg") 43.75% 13.333333333333334% no-repeat;
+}
+
+.country-christmas-island {
+	background: url("../images/countries/sprite.svg") 43.75% 20% no-repeat;
+}
+
+.country-cocos-island {
+	background: url("../images/countries/sprite.svg") 43.75% 26.666666666666668% no-repeat;
+}
+
+.country-colombia {
+	background: url("../images/countries/sprite.svg") 43.75% 33.333333333333336% no-repeat;
+}
+
+.country-comoros {
+	background: url("../images/countries/sprite.svg") 43.75% 40% no-repeat;
+}
+
+.country-cook-islands {
+	background: url("../images/countries/sprite.svg") 0 46.666666666666664% no-repeat;
+}
+
+.country-corsica {
+	background: url("../images/countries/sprite.svg") 6.25% 46.666666666666664% no-repeat;
+}
+
+.country-costa-rica {
+	background: url("../images/countries/sprite.svg") 12.5% 46.666666666666664% no-repeat;
+}
+
+.country-croatia {
+	background: url("../images/countries/sprite.svg") 18.75% 46.666666666666664% no-repeat;
+}
+
+.country-cuba {
+	background: url("../images/countries/sprite.svg") 25% 46.666666666666664% no-repeat;
+}
+
+.country-curacao {
+	background: url("../images/countries/sprite.svg") 31.25% 46.666666666666664% no-repeat;
+}
+
+.country-cyprus {
+	background: url("../images/countries/sprite.svg") 37.5% 46.666666666666664% no-repeat;
+}
+
+.country-czech-republic {
+	background: url("../images/countries/sprite.svg") 43.75% 46.666666666666664% no-repeat;
+}
+
+.country-democratic-republic-of-congo {
+	background: url("../images/countries/sprite.svg") 50% 0 no-repeat;
+}
+
+.country-denmark {
+	background: url("../images/countries/sprite.svg") 50% 6.666666666666667% no-repeat;
+}
+
+.country-djibouti {
+	background: url("../images/countries/sprite.svg") 50% 13.333333333333334% no-repeat;
+}
+
+.country-dominica {
+	background: url("../images/countries/sprite.svg") 50% 20% no-repeat;
+}
+
+.country-dominican-republic {
+	background: url("../images/countries/sprite.svg") 50% 26.666666666666668% no-repeat;
+}
+
+.country-east-timor {
+	background: url("../images/countries/sprite.svg") 50% 33.333333333333336% no-repeat;
+}
+
+.country-ecuador {
+	background: url("../images/countries/sprite.svg") 50% 40% no-repeat;
+}
+
+.country-egypt {
+	background: url("../images/countries/sprite.svg") 50% 46.666666666666664% no-repeat;
+}
+
+.country-england {
+	background: url("../images/countries/sprite.svg") 0 53.333333333333336% no-repeat;
+}
+
+.country-equatorial-guinea {
+	background: url("../images/countries/sprite.svg") 6.25% 53.333333333333336% no-repeat;
+}
+
+.country-eritrea {
+	background: url("../images/countries/sprite.svg") 12.5% 53.333333333333336% no-repeat;
+}
+
+.country-estonia {
+	background: url("../images/countries/sprite.svg") 18.75% 53.333333333333336% no-repeat;
+}
+
+.country-ethiopia {
+	background: url("../images/countries/sprite.svg") 25% 53.333333333333336% no-repeat;
+}
+
+.country-european-union {
+	background: url("../images/countries/sprite.svg") 31.25% 53.333333333333336% no-repeat;
+}
+
+.country-falkland-islands {
+	background: url("../images/countries/sprite.svg") 37.5% 53.333333333333336% no-repeat;
+}
+
+.country-faroe-islands {
+	background: url("../images/countries/sprite.svg") 43.75% 53.333333333333336% no-repeat;
+}
+
+.country-fiji {
+	background: url("../images/countries/sprite.svg") 50% 53.333333333333336% no-repeat;
+}
+
+.country-finland {
+	background: url("../images/countries/sprite.svg") 56.25% 0 no-repeat;
+}
+
+.country-france {
+	background: url("../images/countries/sprite.svg") 56.25% 6.666666666666667% no-repeat;
+}
+
+.country-french-polynesia {
+	background: url("../images/countries/sprite.svg") 56.25% 13.333333333333334% no-repeat;
+}
+
+.country-gabon {
+	background: url("../images/countries/sprite.svg") 56.25% 20% no-repeat;
+}
+
+.country-galapagos-islands {
+	background: url("../images/countries/sprite.svg") 56.25% 26.666666666666668% no-repeat;
+}
+
+.country-gambia {
+	background: url("../images/countries/sprite.svg") 56.25% 33.333333333333336% no-repeat;
+}
+
+.country-georgia {
+	background: url("../images/countries/sprite.svg") 56.25% 40% no-repeat;
+}
+
+.country-germany {
+	background: url("../images/countries/sprite.svg") 56.25% 46.666666666666664% no-repeat;
+}
+
+.country-ghana {
+	background: url("../images/countries/sprite.svg") 56.25% 53.333333333333336% no-repeat;
+}
+
+.country-gibraltar {
+	background: url("../images/countries/sprite.svg") 0 60% no-repeat;
+}
+
+.country-greece {
+	background: url("../images/countries/sprite.svg") 6.25% 60% no-repeat;
+}
+
+.country-greenland {
+	background: url("../images/countries/sprite.svg") 12.5% 60% no-repeat;
+}
+
+.country-grenada {
+	background: url("../images/countries/sprite.svg") 18.75% 60% no-repeat;
+}
+
+.country-guam {
+	background: url("../images/countries/sprite.svg") 25% 60% no-repeat;
+}
+
+.country-guatemala {
+	background: url("../images/countries/sprite.svg") 31.25% 60% no-repeat;
+}
+
+.country-guernsey {
+	background: url("../images/countries/sprite.svg") 37.5% 60% no-repeat;
+}
+
+.country-guinea {
+	background: url("../images/countries/sprite.svg") 43.75% 60% no-repeat;
+}
+
+.country-guinea-bissau {
+	background: url("../images/countries/sprite.svg") 50% 60% no-repeat;
+}
+
+.country-guyana {
+	background: url("../images/countries/sprite.svg") 56.25% 60% no-repeat;
+}
+
+.country-haiti {
+	background: url("../images/countries/sprite.svg") 62.5% 0 no-repeat;
+}
+
+.country-hawaii {
+	background: url("../images/countries/sprite.svg") 62.5% 6.666666666666667% no-repeat;
+}
+
+.country-honduras {
+	background: url("../images/countries/sprite.svg") 62.5% 13.333333333333334% no-repeat;
+}
+
+.country-hong-kong {
+	background: url("../images/countries/sprite.svg") 62.5% 20% no-repeat;
+}
+
+.country-hungary {
+	background: url("../images/countries/sprite.svg") 62.5% 26.666666666666668% no-repeat;
+}
+
+.country-iceland {
+	background: url("../images/countries/sprite.svg") 62.5% 33.333333333333336% no-repeat;
+}
+
+.country-india {
+	background: url("../images/countries/sprite.svg") 62.5% 40% no-repeat;
+}
+
+.country-indonesia {
+	background: url("../images/countries/sprite.svg") 62.5% 46.666666666666664% no-repeat;
+}
+
+.country-iran {
+	background: url("../images/countries/sprite.svg") 62.5% 53.333333333333336% no-repeat;
+}
+
+.country-iraq {
+	background: url("../images/countries/sprite.svg") 62.5% 60% no-repeat;
+}
+
+.country-ireland {
+	background: url("../images/countries/sprite.svg") 0 66.66666666666667% no-repeat;
+}
+
+.country-isle-of-man {
+	background: url("../images/countries/sprite.svg") 6.25% 66.66666666666667% no-repeat;
+}
+
+.country-israel {
+	background: url("../images/countries/sprite.svg") 12.5% 66.66666666666667% no-repeat;
+}
+
+.country-italy {
+	background: url("../images/countries/sprite.svg") 18.75% 66.66666666666667% no-repeat;
+}
+
+.country-ivory-coast {
+	background: url("../images/countries/sprite.svg") 25% 66.66666666666667% no-repeat;
+}
+
+.country-jamaica {
+	background: url("../images/countries/sprite.svg") 31.25% 66.66666666666667% no-repeat;
+}
+
+.country-japan {
+	background: url("../images/countries/sprite.svg") 37.5% 66.66666666666667% no-repeat;
+}
+
+.country-jersey {
+	background: url("../images/countries/sprite.svg") 43.75% 66.66666666666667% no-repeat;
+}
+
+.country-jordan {
+	background: url("../images/countries/sprite.svg") 50% 66.66666666666667% no-repeat;
+}
+
+.country-kazakhstan {
+	background: url("../images/countries/sprite.svg") 56.25% 66.66666666666667% no-repeat;
+}
+
+.country-kenya {
+	background: url("../images/countries/sprite.svg") 62.5% 66.66666666666667% no-repeat;
+}
+
+.country-kiribati {
+	background: url("../images/countries/sprite.svg") 68.75% 0 no-repeat;
+}
+
+.country-kosovo {
+	background: url("../images/countries/sprite.svg") 68.75% 6.666666666666667% no-repeat;
+}
+
+.country-kuwait {
+	background: url("../images/countries/sprite.svg") 68.75% 13.333333333333334% no-repeat;
+}
+
+.country-kyrgyzstan {
+	background: url("../images/countries/sprite.svg") 68.75% 20% no-repeat;
+}
+
+.country-laos {
+	background: url("../images/countries/sprite.svg") 68.75% 26.666666666666668% no-repeat;
+}
+
+.country-latvia {
+	background: url("../images/countries/sprite.svg") 68.75% 33.333333333333336% no-repeat;
+}
+
+.country-lebanon {
+	background: url("../images/countries/sprite.svg") 68.75% 40% no-repeat;
+}
+
+.country-lesotho {
+	background: url("../images/countries/sprite.svg") 68.75% 46.666666666666664% no-repeat;
+}
+
+.country-liberia {
+	background: url("../images/countries/sprite.svg") 68.75% 53.333333333333336% no-repeat;
+}
+
+.country-libya {
+	background: url("../images/countries/sprite.svg") 68.75% 60% no-repeat;
+}
+
+.country-liechtenstein {
+	background: url("../images/countries/sprite.svg") 0 0 no-repeat;
+}
+
+.country-lithuania {
+	background: url("../images/countries/sprite.svg") 0 73.33333333333333% no-repeat;
+}
+
+.country-luxembourg {
+	background: url("../images/countries/sprite.svg") 6.25% 73.33333333333333% no-repeat;
+}
+
+.country-macao {
+	background: url("../images/countries/sprite.svg") 12.5% 73.33333333333333% no-repeat;
+}
+
+.country-madagascar {
+	background: url("../images/countries/sprite.svg") 18.75% 73.33333333333333% no-repeat;
+}
+
+.country-madeira {
+	background: url("../images/countries/sprite.svg") 25% 73.33333333333333% no-repeat;
+}
+
+.country-malawi {
+	background: url("../images/countries/sprite.svg") 31.25% 73.33333333333333% no-repeat;
+}
+
+.country-malaysia {
+	background: url("../images/countries/sprite.svg") 37.5% 73.33333333333333% no-repeat;
+}
+
+.country-maldives {
+	background: url("../images/countries/sprite.svg") 43.75% 73.33333333333333% no-repeat;
+}
+
+.country-mali {
+	background: url("../images/countries/sprite.svg") 50% 73.33333333333333% no-repeat;
+}
+
+.country-malta {
+	background: url("../images/countries/sprite.svg") 56.25% 73.33333333333333% no-repeat;
+}
+
+.country-marshall-island {
+	background: url("../images/countries/sprite.svg") 62.5% 73.33333333333333% no-repeat;
+}
+
+.country-martinique {
+	background: url("../images/countries/sprite.svg") 68.75% 73.33333333333333% no-repeat;
+}
+
+.country-mauritania {
+	background: url("../images/countries/sprite.svg") 75% 0 no-repeat;
+}
+
+.country-mauritius {
+	background: url("../images/countries/sprite.svg") 75% 6.666666666666667% no-repeat;
+}
+
+.country-melilla {
+	background: url("../images/countries/sprite.svg") 75% 13.333333333333334% no-repeat;
+}
+
+.country-mexico {
+	background: url("../images/countries/sprite.svg") 75% 20% no-repeat;
+}
+
+.country-micronesia {
+	background: url("../images/countries/sprite.svg") 75% 26.666666666666668% no-repeat;
+}
+
+.country-moldova {
+	background: url("../images/countries/sprite.svg") 75% 33.333333333333336% no-repeat;
+}
+
+.country-monaco {
+	background: url("../images/countries/sprite.svg") 75% 40% no-repeat;
+}
+
+.country-mongolia {
+	background: url("../images/countries/sprite.svg") 75% 46.666666666666664% no-repeat;
+}
+
+.country-montenegro {
+	background: url("../images/countries/sprite.svg") 75% 53.333333333333336% no-repeat;
+}
+
+.country-montserrat {
+	background: url("../images/countries/sprite.svg") 75% 60% no-repeat;
+}
+
+.country-morocco {
+	background: url("../images/countries/sprite.svg") 75% 66.66666666666667% no-repeat;
+}
+
+.country-mozambique {
+	background: url("../images/countries/sprite.svg") 75% 73.33333333333333% no-repeat;
+}
+
+.country-myanmar {
+	background: url("../images/countries/sprite.svg") 0 80% no-repeat;
+}
+
+.country-namibia {
+	background: url("../images/countries/sprite.svg") 6.25% 80% no-repeat;
+}
+
+.country-nato {
+	background: url("../images/countries/sprite.svg") 12.5% 80% no-repeat;
+}
+
+.country-nauru {
+	background: url("../images/countries/sprite.svg") 18.75% 80% no-repeat;
+}
+
+.country-nepal {
+	background: url("../images/countries/sprite.svg") 25% 80% no-repeat;
+}
+
+.country-netherlands {
+	background: url("../images/countries/sprite.svg") 31.25% 80% no-repeat;
+}
+
+.country-new-zealand {
+	background: url("../images/countries/sprite.svg") 37.5% 80% no-repeat;
+}
+
+.country-nicaragua {
+	background: url("../images/countries/sprite.svg") 43.75% 80% no-repeat;
+}
+
+.country-niger {
+	background: url("../images/countries/sprite.svg") 50% 80% no-repeat;
+}
+
+.country-nigeria {
+	background: url("../images/countries/sprite.svg") 56.25% 80% no-repeat;
+}
+
+.country-niue {
+	background: url("../images/countries/sprite.svg") 62.5% 80% no-repeat;
+}
+
+.country-norfolk-island {
+	background: url("../images/countries/sprite.svg") 68.75% 80% no-repeat;
+}
+
+.country-north-korea {
+	background: url("../images/countries/sprite.svg") 75% 80% no-repeat;
+}
+
+.country-northen-cyprus {
+	background: url("../images/countries/sprite.svg") 81.25% 0 no-repeat;
+}
+
+.country-northern-marianas-islands {
+	background: url("../images/countries/sprite.svg") 81.25% 6.666666666666667% no-repeat;
+}
+
+.country-norway {
+	background: url("../images/countries/sprite.svg") 81.25% 13.333333333333334% no-repeat;
+}
+
+.country-oman {
+	background: url("../images/countries/sprite.svg") 81.25% 20% no-repeat;
+}
+
+.country-orkney-islands {
+	background: url("../images/countries/sprite.svg") 81.25% 26.666666666666668% no-repeat;
+}
+
+.country-ossetia {
+	background: url("../images/countries/sprite.svg") 81.25% 33.333333333333336% no-repeat;
+}
+
+.country-pakistan {
+	background: url("../images/countries/sprite.svg") 81.25% 40% no-repeat;
+}
+
+.country-palau {
+	background: url("../images/countries/sprite.svg") 81.25% 46.666666666666664% no-repeat;
+}
+
+.country-palestine {
+	background: url("../images/countries/sprite.svg") 81.25% 53.333333333333336% no-repeat;
+}
+
+.country-panama {
+	background: url("../images/countries/sprite.svg") 81.25% 60% no-repeat;
+}
+
+.country-papua-new-guinea {
+	background: url("../images/countries/sprite.svg") 81.25% 66.66666666666667% no-repeat;
+}
+
+.country-paraguay {
+	background: url("../images/countries/sprite.svg") 81.25% 73.33333333333333% no-repeat;
+}
+
+.country-peru {
+	background: url("../images/countries/sprite.svg") 81.25% 80% no-repeat;
+}
+
+.country-philippines {
+	background: url("../images/countries/sprite.svg") 0 86.66666666666667% no-repeat;
+}
+
+.country-pitcairn-islands {
+	background: url("../images/countries/sprite.svg") 6.25% 86.66666666666667% no-repeat;
+}
+
+.country-portugal {
+	background: url("../images/countries/sprite.svg") 12.5% 86.66666666666667% no-repeat;
+}
+
+.country-puerto-rico {
+	background: url("../images/countries/sprite.svg") 18.75% 86.66666666666667% no-repeat;
+}
+
+.country-qatar {
+	background: url("../images/countries/sprite.svg") 25% 86.66666666666667% no-repeat;
+}
+
+.country-rapa-nui {
+	background: url("../images/countries/sprite.svg") 31.25% 86.66666666666667% no-repeat;
+}
+
+.country-republic-of-macedonia {
+	background: url("../images/countries/sprite.svg") 37.5% 86.66666666666667% no-repeat;
+}
+
+.country-republic-of-poland {
+	background: url("../images/countries/sprite.svg") 43.75% 86.66666666666667% no-repeat;
+}
+
+.country-republic-of-the-congo {
+	background: url("../images/countries/sprite.svg") 50% 86.66666666666667% no-repeat;
+}
+
+.country-romania {
+	background: url("../images/countries/sprite.svg") 56.25% 86.66666666666667% no-repeat;
+}
+
+.country-russia {
+	background: url("../images/countries/sprite.svg") 62.5% 86.66666666666667% no-repeat;
+}
+
+.country-rwanda {
+	background: url("../images/countries/sprite.svg") 68.75% 86.66666666666667% no-repeat;
+}
+
+.country-saba-island {
+	background: url("../images/countries/sprite.svg") 75% 86.66666666666667% no-repeat;
+}
+
+.country-saint-kitts-and-nevis {
+	background: url("../images/countries/sprite.svg") 81.25% 86.66666666666667% no-repeat;
+}
+
+.country-salvador {
+	background: url("../images/countries/sprite.svg") 87.5% 0 no-repeat;
+}
+
+.country-samoa {
+	background: url("../images/countries/sprite.svg") 87.5% 6.666666666666667% no-repeat;
+}
+
+.country-san-marino {
+	background: url("../images/countries/sprite.svg") 87.5% 13.333333333333334% no-repeat;
+}
+
+.country-sao-tome-and-principe {
+	background: url("../images/countries/sprite.svg") 87.5% 20% no-repeat;
+}
+
+.country-sardinia {
+	background: url("../images/countries/sprite.svg") 87.5% 26.666666666666668% no-repeat;
+}
+
+.country-saudi-arabia {
+	background: url("../images/countries/sprite.svg") 87.5% 33.333333333333336% no-repeat;
+}
+
+.country-scotland {
+	background: url("../images/countries/sprite.svg") 87.5% 40% no-repeat;
+}
+
+.country-senegal {
+	background: url("../images/countries/sprite.svg") 87.5% 46.666666666666664% no-repeat;
+}
+
+.country-serbia {
+	background: url("../images/countries/sprite.svg") 87.5% 53.333333333333336% no-repeat;
+}
+
+.country-seychelles {
+	background: url("../images/countries/sprite.svg") 87.5% 60% no-repeat;
+}
+
+.country-sierra-leone {
+	background: url("../images/countries/sprite.svg") 87.5% 66.66666666666667% no-repeat;
+}
+
+.country-singapore {
+	background: url("../images/countries/sprite.svg") 87.5% 73.33333333333333% no-repeat;
+}
+
+.country-sint-eustatius {
+	background: url("../images/countries/sprite.svg") 87.5% 80% no-repeat;
+}
+
+.country-sint-maarten {
+	background: url("../images/countries/sprite.svg") 87.5% 86.66666666666667% no-repeat;
+}
+
+.country-slovakia {
+	background: url("../images/countries/sprite.svg") 0 93.33333333333333% no-repeat;
+}
+
+.country-slovenia {
+	background: url("../images/countries/sprite.svg") 6.25% 93.33333333333333% no-repeat;
+}
+
+.country-solomon-islands {
+	background: url("../images/countries/sprite.svg") 12.5% 93.33333333333333% no-repeat;
+}
+
+.country-somalia {
+	background: url("../images/countries/sprite.svg") 18.75% 93.33333333333333% no-repeat;
+}
+
+.country-somaliland {
+	background: url("../images/countries/sprite.svg") 25% 93.33333333333333% no-repeat;
+}
+
+.country-south-africa {
+	background: url("../images/countries/sprite.svg") 31.25% 93.33333333333333% no-repeat;
+}
+
+.country-south-korea {
+	background: url("../images/countries/sprite.svg") 37.5% 93.33333333333333% no-repeat;
+}
+
+.country-south-sudan {
+	background: url("../images/countries/sprite.svg") 43.75% 93.33333333333333% no-repeat;
+}
+
+.country-spain {
+	background: url("../images/countries/sprite.svg") 50% 93.33333333333333% no-repeat;
+}
+
+.country-sri-lanka {
+	background: url("../images/countries/sprite.svg") 56.25% 93.33333333333333% no-repeat;
+}
+
+.country-st-barts {
+	background: url("../images/countries/sprite.svg") 62.5% 93.33333333333333% no-repeat;
+}
+
+.country-st-lucia {
+	background: url("../images/countries/sprite.svg") 68.75% 93.33333333333333% no-repeat;
+}
+
+.country-st-vincent-and-the-grenadines {
+	background: url("../images/countries/sprite.svg") 75% 93.33333333333333% no-repeat;
+}
+
+.country-sudan {
+	background: url("../images/countries/sprite.svg") 81.25% 93.33333333333333% no-repeat;
+}
+
+.country-suriname {
+	background: url("../images/countries/sprite.svg") 87.5% 93.33333333333333% no-repeat;
+}
+
+.country-swaziland {
+	background: url("../images/countries/sprite.svg") 93.75% 0 no-repeat;
+}
+
+.country-sweden {
+	background: url("../images/countries/sprite.svg") 93.75% 6.666666666666667% no-repeat;
+}
+
+.country-switzerland {
+	background: url("../images/countries/sprite.svg") 93.75% 13.333333333333334% no-repeat;
+}
+
+.country-syria {
+	background: url("../images/countries/sprite.svg") 93.75% 20% no-repeat;
+}
+
+.country-taiwan {
+	background: url("../images/countries/sprite.svg") 93.75% 26.666666666666668% no-repeat;
+}
+
+.country-tajikistan {
+	background: url("../images/countries/sprite.svg") 93.75% 33.333333333333336% no-repeat;
+}
+
+.country-tanzania {
+	background: url("../images/countries/sprite.svg") 93.75% 40% no-repeat;
+}
+
+.country-thailand {
+	background: url("../images/countries/sprite.svg") 93.75% 46.666666666666664% no-repeat;
+}
+
+.country-tibet {
+	background: url("../images/countries/sprite.svg") 93.75% 53.333333333333336% no-repeat;
+}
+
+.country-togo {
+	background: url("../images/countries/sprite.svg") 93.75% 60% no-repeat;
+}
+
+.country-tokelau {
+	background: url("../images/countries/sprite.svg") 93.75% 66.66666666666667% no-repeat;
+}
+
+.country-tonga {
+	background: url("../images/countries/sprite.svg") 93.75% 73.33333333333333% no-repeat;
+}
+
+.country-transnistria {
+	background: url("../images/countries/sprite.svg") 93.75% 80% no-repeat;
+}
+
+.country-trinidad-and-tobago {
+	background: url("../images/countries/sprite.svg") 93.75% 86.66666666666667% no-repeat;
+}
+
+.country-tunisia {
+	background: url("../images/countries/sprite.svg") 93.75% 93.33333333333333% no-repeat;
+}
+
+.country-turkey {
+	background: url("../images/countries/sprite.svg") 0 100% no-repeat;
+}
+
+.country-turkmenistan {
+	background: url("../images/countries/sprite.svg") 6.25% 100% no-repeat;
+}
+
+.country-turks-and-caicos {
+	background: url("../images/countries/sprite.svg") 12.5% 100% no-repeat;
+}
+
+.country-tuvalu {
+	background: url("../images/countries/sprite.svg") 18.75% 100% no-repeat;
+}
+
+.country-uganda {
+	background: url("../images/countries/sprite.svg") 25% 100% no-repeat;
+}
+
+.country-ukraine {
+	background: url("../images/countries/sprite.svg") 31.25% 100% no-repeat;
+}
+
+.country-united-arab-emirates {
+	background: url("../images/countries/sprite.svg") 37.5% 100% no-repeat;
+}
+
+.country-united-kingdom {
+	background: url("../images/countries/sprite.svg") 43.75% 100% no-repeat;
+}
+
+.country-united-nations {
+	background: url("../images/countries/sprite.svg") 50% 100% no-repeat;
+}
+
+.country-united-states-of-america {
+	background: url("../images/countries/sprite.svg") 56.25% 100% no-repeat;
+}
+
+.country-uruguay {
+	background: url("../images/countries/sprite.svg") 62.5% 100% no-repeat;
+}
+
+.country-uzbekistan {
+	background: url("../images/countries/sprite.svg") 68.75% 100% no-repeat;
+}
+
+.country-vanuatu {
+	background: url("../images/countries/sprite.svg") 75% 100% no-repeat;
+}
+
+.country-vatican-city {
+	background: url("../images/countries/sprite.svg") 81.25% 100% no-repeat;
+}
+
+.country-venezuela {
+	background: url("../images/countries/sprite.svg") 87.5% 100% no-repeat;
+}
+
+.country-vietnam {
+	background: url("../images/countries/sprite.svg") 93.75% 100% no-repeat;
+}
+
+.country-virgin-islands {
+	background: url("../images/countries/sprite.svg") 100% 0 no-repeat;
+}
+
+.country-wales {
+	background: url("../images/countries/sprite.svg") 100% 6.666666666666667% no-repeat;
+}
+
+.country-western-sahara {
+	background: url("../images/countries/sprite.svg") 100% 13.333333333333334% no-repeat;
+}
+
+.country-yemen {
+	background: url("../images/countries/sprite.svg") 100% 20% no-repeat;
+}
+
+.country-zambia {
+	background: url("../images/countries/sprite.svg") 100% 26.666666666666668% no-repeat;
+}
+
+.country-zimbabwe {
+	background: url("../images/countries/sprite.svg") 100% 33.333333333333336% no-repeat;
+}

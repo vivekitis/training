@@ -1,0 +1,1056 @@
+/* Countries
+========================================================================== */
+
+.country {
+  display: block;
+  width: 36px;
+  height: 36px;
+}
+
+.country-abkhazia {
+  background: url(../images/countries/svg/abkhazia.svg) center center / cover no-repeat transparent;
+}
+
+.country-afghanistan {
+  background: url(../images/countries/svg/afghanistan.svg) center center / cover no-repeat transparent;
+}
+
+.country-aland-islands {
+  background: url(../images/countries/svg/aland-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-albania {
+  background: url(../images/countries/svg/albania.svg) center center / cover no-repeat transparent;
+}
+
+.country-algeria {
+  background: url(../images/countries/svg/algeria.svg) center center / cover no-repeat transparent;
+}
+
+.country-american-samoa {
+  background: url(../images/countries/svg/american-samoa.svg) center center / cover no-repeat transparent;
+}
+
+.country-andorra {
+  background: url(../images/countries/svg/andorra.svg) center center / cover no-repeat transparent;
+}
+
+.country-angola {
+  background: url(../images/countries/svg/angola.svg) center center / cover no-repeat transparent;
+}
+
+.country-anguilla {
+  background: url(../images/countries/svg/anguilla.svg) center center / cover no-repeat transparent;
+}
+
+.country-antigua-and-barbuda {
+  background: url(../images/countries/svg/antigua-and-barbuda.svg) center center / cover no-repeat transparent;
+}
+
+.country-argentina {
+  background: url(../images/countries/svg/argentina.svg) center center / cover no-repeat transparent;
+}
+
+.country-armenia {
+  background: url(../images/countries/svg/armenia.svg) center center / cover no-repeat transparent;
+}
+
+.country-aruba {
+  background: url(../images/countries/svg/aruba.svg) center center / cover no-repeat transparent;
+}
+
+.country-australia {
+  background: url(../images/countries/svg/australia.svg) center center / cover no-repeat transparent;
+}
+
+.country-austria {
+  background: url(../images/countries/svg/austria.svg) center center / cover no-repeat transparent;
+}
+
+.country-azerbaijan {
+  background: url(../images/countries/svg/azerbaijan.svg) center center / cover no-repeat transparent;
+}
+
+.country-azores-islands {
+  background: url(../images/countries/svg/azores-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-bahamas {
+  background: url(../images/countries/svg/bahamas.svg) center center / cover no-repeat transparent;
+}
+
+.country-bahrain {
+  background: url(../images/countries/svg/bahrain.svg) center center / cover no-repeat transparent;
+}
+
+.country-balearic-islands {
+  background: url(../images/countries/svg/balearic-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-bangladesh {
+  background: url(../images/countries/svg/bangladesh.svg) center center / cover no-repeat transparent;
+}
+
+.country-barbados {
+  background: url(../images/countries/svg/barbados.svg) center center / cover no-repeat transparent;
+}
+
+.country-basque-country {
+  background: url(../images/countries/svg/basque-country.svg) center center / cover no-repeat transparent;
+}
+
+.country-belarus {
+  background: url(../images/countries/svg/belarus.svg) center center / cover no-repeat transparent;
+}
+
+.country-belgium {
+  background: url(../images/countries/svg/belgium.svg) center center / cover no-repeat transparent;
+}
+
+.country-belize {
+  background: url(../images/countries/svg/belize.svg) center center / cover no-repeat transparent;
+}
+
+.country-benin {
+  background: url(../images/countries/svg/benin.svg) center center / cover no-repeat transparent;
+}
+
+.country-bermuda {
+  background: url(../images/countries/svg/bermuda.svg) center center / cover no-repeat transparent;
+}
+
+.country-bhutan {
+  background: url(../images/countries/svg/bhutan.svg) center center / cover no-repeat transparent;
+}
+
+.country-bolivia {
+  background: url(../images/countries/svg/bolivia.svg) center center / cover no-repeat transparent;
+}
+
+.country-bonaire {
+  background: url(../images/countries/svg/bonaire.svg) center center / cover no-repeat transparent;
+}
+
+.country-bosnia-and-herzegovina {
+  background: url(../images/countries/svg/bosnia-and-herzegovina.svg) center center / cover no-repeat transparent;
+}
+
+.country-botswana {
+  background: url(../images/countries/svg/botswana.svg) center center / cover no-repeat transparent;
+}
+
+.country-brazil {
+  background: url(../images/countries/svg/brazil.svg) center center / cover no-repeat transparent;
+}
+
+.country-british-columbia {
+  background: url(../images/countries/svg/british-columbia.svg) center center / cover no-repeat transparent;
+}
+
+.country-british-indian-ocean-territory {
+  background: url(../images/countries/svg/british-indian-ocean-territory.svg) center center / cover no-repeat transparent;
+}
+
+.country-british-virgin-islands {
+  background: url(../images/countries/svg/british-virgin-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-brunei {
+  background: url(../images/countries/svg/brunei.svg) center center / cover no-repeat transparent;
+}
+
+.country-bulgaria {
+  background: url(../images/countries/svg/bulgaria.svg) center center / cover no-repeat transparent;
+}
+
+.country-burkina-faso {
+  background: url(../images/countries/svg/burkina-faso.svg) center center / cover no-repeat transparent;
+}
+
+.country-burundi {
+  background: url(../images/countries/svg/burundi.svg) center center / cover no-repeat transparent;
+}
+
+.country-cambodia {
+  background: url(../images/countries/svg/cambodia.svg) center center / cover no-repeat transparent;
+}
+
+.country-cameroon {
+  background: url(../images/countries/svg/cameroon.svg) center center / cover no-repeat transparent;
+}
+
+.country-canada {
+  background: url(../images/countries/svg/canada.svg) center center / cover no-repeat transparent;
+}
+
+.country-canary-islands {
+  background: url(../images/countries/svg/canary-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-cape-verde {
+  background: url(../images/countries/svg/cape-verde.svg) center center / cover no-repeat transparent;
+}
+
+.country-cayman-islands {
+  background: url(../images/countries/svg/cayman-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-central-african-republic {
+  background: url(../images/countries/svg/central-african-republic.svg) center center / cover no-repeat transparent;
+}
+
+.country-ceuta {
+  background: url(../images/countries/svg/ceuta.svg) center center / cover no-repeat transparent;
+}
+
+.country-chad {
+  background: url(../images/countries/svg/chad.svg) center center / cover no-repeat transparent;
+}
+
+.country-chile {
+  background: url(../images/countries/svg/chile.svg) center center / cover no-repeat transparent;
+}
+
+.country-china {
+  background: url(../images/countries/svg/china.svg) center center / cover no-repeat transparent;
+}
+
+.country-christmas-island {
+  background: url(../images/countries/svg/christmas-island.svg) center center / cover no-repeat transparent;
+}
+
+.country-cocos-island {
+  background: url(../images/countries/svg/cocos-island.svg) center center / cover no-repeat transparent;
+}
+
+.country-colombia {
+  background: url(../images/countries/svg/colombia.svg) center center / cover no-repeat transparent;
+}
+
+.country-comoros {
+  background: url(../images/countries/svg/comoros.svg) center center / cover no-repeat transparent;
+}
+
+.country-cook-islands {
+  background: url(../images/countries/svg/cook-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-corsica {
+  background: url(../images/countries/svg/corsica.svg) center center / cover no-repeat transparent;
+}
+
+.country-costa-rica {
+  background: url(../images/countries/svg/costa-rica.svg) center center / cover no-repeat transparent;
+}
+
+.country-croatia {
+  background: url(../images/countries/svg/croatia.svg) center center / cover no-repeat transparent;
+}
+
+.country-cuba {
+  background: url(../images/countries/svg/cuba.svg) center center / cover no-repeat transparent;
+}
+
+.country-curacao {
+  background: url(../images/countries/svg/curacao.svg) center center / cover no-repeat transparent;
+}
+
+.country-cyprus {
+  background: url(../images/countries/svg/cyprus.svg) center center / cover no-repeat transparent;
+}
+
+.country-czech-republic {
+  background: url(../images/countries/svg/czech-republic.svg) center center / cover no-repeat transparent;
+}
+
+.country-democratic-republic-of-congo {
+  background: url(../images/countries/svg/democratic-republic-of-congo.svg) center center / cover no-repeat transparent;
+}
+
+.country-denmark {
+  background: url(../images/countries/svg/denmark.svg) center center / cover no-repeat transparent;
+}
+
+.country-djibouti {
+  background: url(../images/countries/svg/djibouti.svg) center center / cover no-repeat transparent;
+}
+
+.country-dominica {
+  background: url(../images/countries/svg/dominica.svg) center center / cover no-repeat transparent;
+}
+
+.country-dominican-republic {
+  background: url(../images/countries/svg/dominican-republic.svg) center center / cover no-repeat transparent;
+}
+
+.country-east-timor {
+  background: url(../images/countries/svg/east-timor.svg) center center / cover no-repeat transparent;
+}
+
+.country-ecuador {
+  background: url(../images/countries/svg/ecuador.svg) center center / cover no-repeat transparent;
+}
+
+.country-egypt {
+  background: url(../images/countries/svg/egypt.svg) center center / cover no-repeat transparent;
+}
+
+.country-england {
+  background: url(../images/countries/svg/england.svg) center center / cover no-repeat transparent;
+}
+
+.country-equatorial-guinea {
+  background: url(../images/countries/svg/equatorial-guinea.svg) center center / cover no-repeat transparent;
+}
+
+.country-eritrea {
+  background: url(../images/countries/svg/eritrea.svg) center center / cover no-repeat transparent;
+}
+
+.country-estonia {
+  background: url(../images/countries/svg/estonia.svg) center center / cover no-repeat transparent;
+}
+
+.country-ethiopia {
+  background: url(../images/countries/svg/ethiopia.svg) center center / cover no-repeat transparent;
+}
+
+.country-european-union {
+  background: url(../images/countries/svg/european-union.svg) center center / cover no-repeat transparent;
+}
+
+.country-falkland-islands {
+  background: url(../images/countries/svg/falkland-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-faroe-islands {
+  background: url(../images/countries/svg/faroe-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-fiji {
+  background: url(../images/countries/svg/fiji.svg) center center / cover no-repeat transparent;
+}
+
+.country-finland {
+  background: url(../images/countries/svg/finland.svg) center center / cover no-repeat transparent;
+}
+
+.country-france {
+  background: url(../images/countries/svg/france.svg) center center / cover no-repeat transparent;
+}
+
+.country-french-polynesia {
+  background: url(../images/countries/svg/french-polynesia.svg) center center / cover no-repeat transparent;
+}
+
+.country-gabon {
+  background: url(../images/countries/svg/gabon.svg) center center / cover no-repeat transparent;
+}
+
+.country-galapagos-islands {
+  background: url(../images/countries/svg/galapagos-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-gambia {
+  background: url(../images/countries/svg/gambia.svg) center center / cover no-repeat transparent;
+}
+
+.country-georgia {
+  background: url(../images/countries/svg/georgia.svg) center center / cover no-repeat transparent;
+}
+
+.country-germany {
+  background: url(../images/countries/svg/germany.svg) center center / cover no-repeat transparent;
+}
+
+.country-ghana {
+  background: url(../images/countries/svg/ghana.svg) center center / cover no-repeat transparent;
+}
+
+.country-gibraltar {
+  background: url(../images/countries/svg/gibraltar.svg) center center / cover no-repeat transparent;
+}
+
+.country-greece {
+  background: url(../images/countries/svg/greece.svg) center center / cover no-repeat transparent;
+}
+
+.country-greenland {
+  background: url(../images/countries/svg/greenland.svg) center center / cover no-repeat transparent;
+}
+
+.country-grenada {
+  background: url(../images/countries/svg/grenada.svg) center center / cover no-repeat transparent;
+}
+
+.country-guam {
+  background: url(../images/countries/svg/guam.svg) center center / cover no-repeat transparent;
+}
+
+.country-guatemala {
+  background: url(../images/countries/svg/guatemala.svg) center center / cover no-repeat transparent;
+}
+
+.country-guernsey {
+  background: url(../images/countries/svg/guernsey.svg) center center / cover no-repeat transparent;
+}
+
+.country-guinea-bissau {
+  background: url(../images/countries/svg/guinea-bissau.svg) center center / cover no-repeat transparent;
+}
+
+.country-guinea {
+  background: url(../images/countries/svg/guinea.svg) center center / cover no-repeat transparent;
+}
+
+.country-guyana {
+  background: url(../images/countries/svg/guyana.svg) center center / cover no-repeat transparent;
+}
+
+.country-haiti {
+  background: url(../images/countries/svg/haiti.svg) center center / cover no-repeat transparent;
+}
+
+.country-hawaii {
+  background: url(../images/countries/svg/hawaii.svg) center center / cover no-repeat transparent;
+}
+
+.country-honduras {
+  background: url(../images/countries/svg/honduras.svg) center center / cover no-repeat transparent;
+}
+
+.country-hong-kong {
+  background: url(../images/countries/svg/hong-kong.svg) center center / cover no-repeat transparent;
+}
+
+.country-hungary {
+  background: url(../images/countries/svg/hungary.svg) center center / cover no-repeat transparent;
+}
+
+.country-iceland {
+  background: url(../images/countries/svg/iceland.svg) center center / cover no-repeat transparent;
+}
+
+.country-india {
+  background: url(../images/countries/svg/india.svg) center center / cover no-repeat transparent;
+}
+
+.country-indonesia {
+  background: url(../images/countries/svg/indonesia.svg) center center / cover no-repeat transparent;
+}
+
+.country-iran {
+  background: url(../images/countries/svg/iran.svg) center center / cover no-repeat transparent;
+}
+
+.country-iraq {
+  background: url(../images/countries/svg/iraq.svg) center center / cover no-repeat transparent;
+}
+
+.country-ireland {
+  background: url(../images/countries/svg/ireland.svg) center center / cover no-repeat transparent;
+}
+
+.country-isle-of-man {
+  background: url(../images/countries/svg/isle-of-man.svg) center center / cover no-repeat transparent;
+}
+
+.country-israel {
+  background: url(../images/countries/svg/israel.svg) center center / cover no-repeat transparent;
+}
+
+.country-italy {
+  background: url(../images/countries/svg/italy.svg) center center / cover no-repeat transparent;
+}
+
+.country-ivory-coast {
+  background: url(../images/countries/svg/ivory-coast.svg) center center / cover no-repeat transparent;
+}
+
+.country-jamaica {
+  background: url(../images/countries/svg/jamaica.svg) center center / cover no-repeat transparent;
+}
+
+.country-japan {
+  background: url(../images/countries/svg/japan.svg) center center / cover no-repeat transparent;
+}
+
+.country-jersey {
+  background: url(../images/countries/svg/jersey.svg) center center / cover no-repeat transparent;
+}
+
+.country-jordan {
+  background: url(../images/countries/svg/jordan.svg) center center / cover no-repeat transparent;
+}
+
+.country-kazakhstan {
+  background: url(../images/countries/svg/kazakhstan.svg) center center / cover no-repeat transparent;
+}
+
+.country-kenya {
+  background: url(../images/countries/svg/kenya.svg) center center / cover no-repeat transparent;
+}
+
+.country-kiribati {
+  background: url(../images/countries/svg/kiribati.svg) center center / cover no-repeat transparent;
+}
+
+.country-kosovo {
+  background: url(../images/countries/svg/kosovo.svg) center center / cover no-repeat transparent;
+}
+
+.country-kuwait {
+  background: url(../images/countries/svg/kuwait.svg) center center / cover no-repeat transparent;
+}
+
+.country-kyrgyzstan {
+  background: url(../images/countries/svg/kyrgyzstan.svg) center center / cover no-repeat transparent;
+}
+
+.country-laos {
+  background: url(../images/countries/svg/laos.svg) center center / cover no-repeat transparent;
+}
+
+.country-latvia {
+  background: url(../images/countries/svg/latvia.svg) center center / cover no-repeat transparent;
+}
+
+.country-lebanon {
+  background: url(../images/countries/svg/lebanon.svg) center center / cover no-repeat transparent;
+}
+
+.country-lesotho {
+  background: url(../images/countries/svg/lesotho.svg) center center / cover no-repeat transparent;
+}
+
+.country-liberia {
+  background: url(../images/countries/svg/liberia.svg) center center / cover no-repeat transparent;
+}
+
+.country-libya {
+  background: url(../images/countries/svg/libya.svg) center center / cover no-repeat transparent;
+}
+
+.country-liechtenstein {
+  background: url(../images/countries/svg/liechtenstein.svg) center center / cover no-repeat transparent;
+}
+
+.country-lithuania {
+  background: url(../images/countries/svg/lithuania.svg) center center / cover no-repeat transparent;
+}
+
+.country-luxembourg {
+  background: url(../images/countries/svg/luxembourg.svg) center center / cover no-repeat transparent;
+}
+
+.country-macao {
+  background: url(../images/countries/svg/macao.svg) center center / cover no-repeat transparent;
+}
+
+.country-madagascar {
+  background: url(../images/countries/svg/madagascar.svg) center center / cover no-repeat transparent;
+}
+
+.country-madeira {
+  background: url(../images/countries/svg/madeira.svg) center center / cover no-repeat transparent;
+}
+
+.country-malawi {
+  background: url(../images/countries/svg/malawi.svg) center center / cover no-repeat transparent;
+}
+
+.country-malaysia {
+  background: url(../images/countries/svg/malaysia.svg) center center / cover no-repeat transparent;
+}
+
+.country-maldives {
+  background: url(../images/countries/svg/maldives.svg) center center / cover no-repeat transparent;
+}
+
+.country-mali {
+  background: url(../images/countries/svg/mali.svg) center center / cover no-repeat transparent;
+}
+
+.country-malta {
+  background: url(../images/countries/svg/malta.svg) center center / cover no-repeat transparent;
+}
+
+.country-marshall-island {
+  background: url(../images/countries/svg/marshall-island.svg) center center / cover no-repeat transparent;
+}
+
+.country-martinique {
+  background: url(../images/countries/svg/martinique.svg) center center / cover no-repeat transparent;
+}
+
+.country-mauritania {
+  background: url(../images/countries/svg/mauritania.svg) center center / cover no-repeat transparent;
+}
+
+.country-mauritius {
+  background: url(../images/countries/svg/mauritius.svg) center center / cover no-repeat transparent;
+}
+
+.country-melilla {
+  background: url(../images/countries/svg/melilla.svg) center center / cover no-repeat transparent;
+}
+
+.country-mexico {
+  background: url(../images/countries/svg/mexico.svg) center center / cover no-repeat transparent;
+}
+
+.country-micronesia {
+  background: url(../images/countries/svg/micronesia.svg) center center / cover no-repeat transparent;
+}
+
+.country-moldova {
+  background: url(../images/countries/svg/moldova.svg) center center / cover no-repeat transparent;
+}
+
+.country-monaco {
+  background: url(../images/countries/svg/monaco.svg) center center / cover no-repeat transparent;
+}
+
+.country-mongolia {
+  background: url(../images/countries/svg/mongolia.svg) center center / cover no-repeat transparent;
+}
+
+.country-montenegro {
+  background: url(../images/countries/svg/montenegro.svg) center center / cover no-repeat transparent;
+}
+
+.country-montserrat {
+  background: url(../images/countries/svg/montserrat.svg) center center / cover no-repeat transparent;
+}
+
+.country-morocco {
+  background: url(../images/countries/svg/morocco.svg) center center / cover no-repeat transparent;
+}
+
+.country-mozambique {
+  background: url(../images/countries/svg/mozambique.svg) center center / cover no-repeat transparent;
+}
+
+.country-myanmar {
+  background: url(../images/countries/svg/myanmar.svg) center center / cover no-repeat transparent;
+}
+
+.country-namibia {
+  background: url(../images/countries/svg/namibia.svg) center center / cover no-repeat transparent;
+}
+
+.country-nato {
+  background: url(../images/countries/svg/nato.svg) center center / cover no-repeat transparent;
+}
+
+.country-nauru {
+  background: url(../images/countries/svg/nauru.svg) center center / cover no-repeat transparent;
+}
+
+.country-nepal {
+  background: url(../images/countries/svg/nepal.svg) center center / cover no-repeat transparent;
+}
+
+.country-netherlands {
+  background: url(../images/countries/svg/netherlands.svg) center center / cover no-repeat transparent;
+}
+
+.country-new-zealand {
+  background: url(../images/countries/svg/new-zealand.svg) center center / cover no-repeat transparent;
+}
+
+.country-nicaragua {
+  background: url(../images/countries/svg/nicaragua.svg) center center / cover no-repeat transparent;
+}
+
+.country-niger {
+  background: url(../images/countries/svg/niger.svg) center center / cover no-repeat transparent;
+}
+
+.country-nigeria {
+  background: url(../images/countries/svg/nigeria.svg) center center / cover no-repeat transparent;
+}
+
+.country-niue {
+  background: url(../images/countries/svg/niue.svg) center center / cover no-repeat transparent;
+}
+
+.country-norfolk-island {
+  background: url(../images/countries/svg/norfolk-island.svg) center center / cover no-repeat transparent;
+}
+
+.country-north-korea {
+  background: url(../images/countries/svg/north-korea.svg) center center / cover no-repeat transparent;
+}
+
+.country-northen-cyprus {
+  background: url(../images/countries/svg/northen-cyprus.svg) center center / cover no-repeat transparent;
+}
+
+.country-northern-marianas-islands {
+  background: url(../images/countries/svg/northern-marianas-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-norway {
+  background: url(../images/countries/svg/norway.svg) center center / cover no-repeat transparent;
+}
+
+.country-oman {
+  background: url(../images/countries/svg/oman.svg) center center / cover no-repeat transparent;
+}
+
+.country-orkney-islands {
+  background: url(../images/countries/svg/orkney-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-ossetia {
+  background: url(../images/countries/svg/ossetia.svg) center center / cover no-repeat transparent;
+}
+
+.country-pakistan {
+  background: url(../images/countries/svg/pakistan.svg) center center / cover no-repeat transparent;
+}
+
+.country-palay {
+  background: url(../images/countries/svg/palay.svg) center center / cover no-repeat transparent;
+}
+
+.country-palestine {
+  background: url(../images/countries/svg/palestine.svg) center center / cover no-repeat transparent;
+}
+
+.country-panama {
+  background: url(../images/countries/svg/panama.svg) center center / cover no-repeat transparent;
+}
+
+.country-papua-new-guinea {
+  background: url(../images/countries/svg/papua-new-guinea.svg) center center / cover no-repeat transparent;
+}
+
+.country-paraguay {
+  background: url(../images/countries/svg/paraguay.svg) center center / cover no-repeat transparent;
+}
+
+.country-peru {
+  background: url(../images/countries/svg/peru.svg) center center / cover no-repeat transparent;
+}
+
+.country-philippines {
+  background: url(../images/countries/svg/philippines.svg) center center / cover no-repeat transparent;
+}
+
+.country-pitcairn-islands {
+  background: url(../images/countries/svg/pitcairn-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-portugal {
+  background: url(../images/countries/svg/portugal.svg) center center / cover no-repeat transparent;
+}
+
+.country-puerto-rico {
+  background: url(../images/countries/svg/puerto-rico.svg) center center / cover no-repeat transparent;
+}
+
+.country-qatar {
+  background: url(../images/countries/svg/qatar.svg) center center / cover no-repeat transparent;
+}
+
+.country-rapa-nui {
+  background: url(../images/countries/svg/rapa-nui.svg) center center / cover no-repeat transparent;
+}
+
+.country-republic-of-macedonia {
+  background: url(../images/countries/svg/republic-of-macedonia.svg) center center / cover no-repeat transparent;
+}
+
+.country-republic-of-poland {
+  background: url(../images/countries/svg/republic-of-poland.svg) center center / cover no-repeat transparent;
+}
+
+.country-republic-of-the-congo {
+  background: url(../images/countries/svg/republic-of-the-congo.svg) center center / cover no-repeat transparent;
+}
+
+.country-romania {
+  background: url(../images/countries/svg/romania.svg) center center / cover no-repeat transparent;
+}
+
+.country-russia {
+  background: url(../images/countries/svg/russia.svg) center center / cover no-repeat transparent;
+}
+
+.country-rwanda {
+  background: url(../images/countries/svg/rwanda.svg) center center / cover no-repeat transparent;
+}
+
+.country-saba-island {
+  background: url(../images/countries/svg/saba-island.svg) center center / cover no-repeat transparent;
+}
+
+.country-saint-kitts-and-nevis {
+  background: url(../images/countries/svg/saint-kitts-and-nevis.svg) center center / cover no-repeat transparent;
+}
+
+.country-salvador {
+  background: url(../images/countries/svg/salvador.svg) center center / cover no-repeat transparent;
+}
+
+.country-samoa {
+  background: url(../images/countries/svg/samoa.svg) center center / cover no-repeat transparent;
+}
+
+.country-san-marino {
+  background: url(../images/countries/svg/san-marino.svg) center center / cover no-repeat transparent;
+}
+
+.country-sao-tome-and-principe {
+  background: url(../images/countries/svg/sao-tome-and-principe.svg) center center / cover no-repeat transparent;
+}
+
+.country-sardinia {
+  background: url(../images/countries/svg/sardinia.svg) center center / cover no-repeat transparent;
+}
+
+.country-saudi-arabia {
+  background: url(../images/countries/svg/saudi-arabia.svg) center center / cover no-repeat transparent;
+}
+
+.country-scotland {
+  background: url(../images/countries/svg/scotland.svg) center center / cover no-repeat transparent;
+}
+
+.country-senegal {
+  background: url(../images/countries/svg/senegal.svg) center center / cover no-repeat transparent;
+}
+
+.country-serbia {
+  background: url(../images/countries/svg/serbia.svg) center center / cover no-repeat transparent;
+}
+
+.country-seychelles {
+  background: url(../images/countries/svg/seychelles.svg) center center / cover no-repeat transparent;
+}
+
+.country-sierra-leone {
+  background: url(../images/countries/svg/sierra-leone.svg) center center / cover no-repeat transparent;
+}
+
+.country-singapore {
+  background: url(../images/countries/svg/singapore.svg) center center / cover no-repeat transparent;
+}
+
+.country-sint-eustatius {
+  background: url(../images/countries/svg/sint-eustatius.svg) center center / cover no-repeat transparent;
+}
+
+.country-sint-maarten {
+  background: url(../images/countries/svg/sint-maarten.svg) center center / cover no-repeat transparent;
+}
+
+.country-slovakia {
+  background: url(../images/countries/svg/slovakia.svg) center center / cover no-repeat transparent;
+}
+
+.country-slovenia {
+  background: url(../images/countries/svg/slovenia.svg) center center / cover no-repeat transparent;
+}
+
+.country-solomon-islands {
+  background: url(../images/countries/svg/solomon-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-somalia {
+  background: url(../images/countries/svg/somalia.svg) center center / cover no-repeat transparent;
+}
+
+.country-somaliland {
+  background: url(../images/countries/svg/somaliland.svg) center center / cover no-repeat transparent;
+}
+
+.country-south-africa {
+  background: url(../images/countries/svg/south-africa.svg) center center / cover no-repeat transparent;
+}
+
+.country-south-korea {
+  background: url(../images/countries/svg/south-korea.svg) center center / cover no-repeat transparent;
+}
+
+.country-south-sudan {
+  background: url(../images/countries/svg/south-sudan.svg) center center / cover no-repeat transparent;
+}
+
+.country-spain {
+  background: url(../images/countries/svg/spain.svg) center center / cover no-repeat transparent;
+}
+
+.country-sri-lanka {
+  background: url(../images/countries/svg/sri-lanka.svg) center center / cover no-repeat transparent;
+}
+
+.country-st-barts {
+  background: url(../images/countries/svg/st-barts.svg) center center / cover no-repeat transparent;
+}
+
+.country-st-lucia {
+  background: url(../images/countries/svg/st-lucia.svg) center center / cover no-repeat transparent;
+}
+
+.country-st-vincent-and-the-grenadines {
+  background: url(../images/countries/svg/st-vincent-and-the-grenadines.svg) center center / cover no-repeat transparent;
+}
+
+.country-sudan {
+  background: url(../images/countries/svg/sudan.svg) center center / cover no-repeat transparent;
+}
+
+.country-suriname {
+  background: url(../images/countries/svg/suriname.svg) center center / cover no-repeat transparent;
+}
+
+.country-swaziland {
+  background: url(../images/countries/svg/swaziland.svg) center center / cover no-repeat transparent;
+}
+
+.country-sweden {
+  background: url(../images/countries/svg/sweden.svg) center center / cover no-repeat transparent;
+}
+
+.country-switzerland {
+  background: url(../images/countries/svg/switzerland.svg) center center / cover no-repeat transparent;
+}
+
+.country-syria {
+  background: url(../images/countries/svg/syria.svg) center center / cover no-repeat transparent;
+}
+
+.country-taiwan {
+  background: url(../images/countries/svg/taiwan.svg) center center / cover no-repeat transparent;
+}
+
+.country-tajikistan {
+  background: url(../images/countries/svg/tajikistan.svg) center center / cover no-repeat transparent;
+}
+
+.country-tanzania {
+  background: url(../images/countries/svg/tanzania.svg) center center / cover no-repeat transparent;
+}
+
+.country-thailand {
+  background: url(../images/countries/svg/thailand.svg) center center / cover no-repeat transparent;
+}
+
+.country-tibet {
+  background: url(../images/countries/svg/tibet.svg) center center / cover no-repeat transparent;
+}
+
+.country-togo {
+  background: url(../images/countries/svg/togo.svg) center center / cover no-repeat transparent;
+}
+
+.country-tokelau {
+  background: url(../images/countries/svg/tokelau.svg) center center / cover no-repeat transparent;
+}
+
+.country-tonga {
+  background: url(../images/countries/svg/tonga.svg) center center / cover no-repeat transparent;
+}
+
+.country-transnistria {
+  background: url(../images/countries/svg/transnistria.svg) center center / cover no-repeat transparent;
+}
+
+.country-trinidad-and-tobago {
+  background: url(../images/countries/svg/trinidad-and-tobago.svg) center center / cover no-repeat transparent;
+}
+
+.country-tunisia {
+  background: url(../images/countries/svg/tunisia.svg) center center / cover no-repeat transparent;
+}
+
+.country-turkey {
+  background: url(../images/countries/svg/turkey.svg) center center / cover no-repeat transparent;
+}
+
+.country-turkmenistan {
+  background: url(../images/countries/svg/turkmenistan.svg) center center / cover no-repeat transparent;
+}
+
+.country-turks-and-caicos {
+  background: url(../images/countries/svg/turks-and-caicos.svg) center center / cover no-repeat transparent;
+}
+
+.country-tuvalu {
+  background: url(../images/countries/svg/tuvalu.svg) center center / cover no-repeat transparent;
+}
+
+.country-uganda {
+  background: url(../images/countries/svg/uganda.svg) center center / cover no-repeat transparent;
+}
+
+.country-ukraine {
+  background: url(../images/countries/svg/ukraine.svg) center center / cover no-repeat transparent;
+}
+
+.country-united-arab-emirates {
+  background: url(../images/countries/svg/united-arab-emirates.svg) center center / cover no-repeat transparent;
+}
+
+.country-united-kingdom {
+  background: url(../images/countries/svg/united-kingdom.svg) center center / cover no-repeat transparent;
+}
+
+.country-united-nations {
+  background: url(../images/countries/svg/united-nations.svg) center center / cover no-repeat transparent;
+}
+
+.country-united-states-of-america {
+  background: url(../images/countries/svg/united-states-of-america.svg) center center / cover no-repeat transparent;
+}
+
+.country-uruguay {
+  background: url(../images/countries/svg/uruguay.svg) center center / cover no-repeat transparent;
+}
+
+.country-uzbekistan {
+  background: url(../images/countries/svg/uzbekistan.svg) center center / cover no-repeat transparent;
+}
+
+.country-vanuatu {
+  background: url(../images/countries/svg/vanuatu.svg) center center / cover no-repeat transparent;
+}
+
+.country-vatican-city {
+  background: url(../images/countries/svg/vatican-city.svg) center center / cover no-repeat transparent;
+}
+
+.country-venezuela {
+  background: url(../images/countries/svg/venezuela.svg) center center / cover no-repeat transparent;
+}
+
+.country-vietnam {
+  background: url(../images/countries/svg/vietnam.svg) center center / cover no-repeat transparent;
+}
+
+.country-virgin-islands {
+  background: url(../images/countries/svg/virgin-islands.svg) center center / cover no-repeat transparent;
+}
+
+.country-wales {
+  background: url(../images/countries/svg/wales.svg) center center / cover no-repeat transparent;
+}
+
+.country-western-sahara {
+  background: url(../images/countries/svg/western-sahara.svg) center center / cover no-repeat transparent;
+}
+
+.country-yemen {
+  background: url(../images/countries/svg/yemen.svg) center center / cover no-repeat transparent;
+}
+
+.country-zambia {
+  background: url(../images/countries/svg/zambia.svg) center center / cover no-repeat transparent;
+}
+
+.country-zimbabwe {
+  background: url(../images/countries/svg/zimbabwe.svg) center center / cover no-repeat transparent;
+}

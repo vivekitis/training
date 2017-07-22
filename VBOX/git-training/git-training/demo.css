@@ -1,0 +1,12 @@
+.p1 {
+    padding-top: 5em;
+    text-align: center;
+    background-color: #E6E2AF;
+    min-height: 100vh;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.p1 h2 { 
+    color: #002F2F;
+}

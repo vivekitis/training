@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "scripts": {
+    "serve": "http-server ./src -p 9012",
+    "build": "gulp",
+    "preview": "http-server ./build -p 9013"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-size": "^2.1.0",
+    "gulp-svg-sprite": "^1.3.7",
+    "gulp-uglify": "^3.0.0",
+    "http-server": "^0.10.0",
+    "run-sequence": "^2.0.0"
+  }
+}
