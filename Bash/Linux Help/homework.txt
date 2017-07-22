@@ -1,0 +1,5 @@
+Top 10 domains 
+awk '{print $2}' access_log | sort | uniq -cd | sort -rn -k 1 |awk 'BEGIN{print "Count\tDomain"} NR==1,NR==10{print $1"\t"$2}'
+
+Top 10 domain ip pairs
+awk '{print $2" "$3}' access_log| sort | uniq -dc | sort -k 1 -rn| awk 'BEGIN{count=1;print "Count Domain \t\t\t Client IP" } count<=10{ if($3 != "-"){ count++; printf("%6s %12s %15s\n",$1,$2,$3)} }'

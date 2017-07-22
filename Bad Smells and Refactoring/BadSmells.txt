@@ -1,0 +1,17 @@
+Bad Semlls
+Dup Code
+Long Methods
+Large cls
+Lazy Class
+Switch Stms
+Long Param List
+ShotGun Surgery
+
+Single change at nmultuipple loc
+
+
+
+
+
+
+rigidity && flexibility && reuseability
