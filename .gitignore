@@ -2,7 +2,6 @@
 /*/
 !.gitigore
 !VBOX
-/VBOX/
 access_log
 build
 node_modules
