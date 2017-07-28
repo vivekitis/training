@@ -1,5 +1,2 @@
-access_log
-VBOX
-*/.idea
-/.idea
-.idea
+*
+!Test
