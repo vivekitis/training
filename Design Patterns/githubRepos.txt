@@ -1,0 +1,3 @@
+Design Patterns - https://github.com/pratvick/DesignPatterns
+Code Smells - https://github.com/pratvick/CodeSmells
+Solid - https://github.com/pratvick/SOLID
