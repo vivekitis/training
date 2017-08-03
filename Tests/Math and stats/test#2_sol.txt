@@ -1,0 +1,16 @@
+01) 0.93
+02) A) 7/3, 11/9
+    B) 2.5 soln: 2I0F(x)dx + 4I2F(x)dx = .5
+03) A) Z=2.46 H. Rejected. System is cost effective
+    B) Z = 167-178/sqrt((sig^2/n1)+(sig^2/n2)) = -1.92, PZ < 1.95 = 0.0274, 
+    therefore no significance.
+04) A) (4500-4000)/400  = 1.25 => 0.8944
+    B) (3900-4000)/400  = -1.37 => 0.0853
+05) 120000 - 0.7*10000 - 0.7*0.4*0.1*50000 = 111600
+06) (x-u)/sig = .5/sqrt(9)/sqrt(n) = 1.96
+07) Null Hypothesis is rejected
+08) P(X1-X2<w2) + P(X2-X1<w1) = 1-(1-w1)^2/2 - (1-w2)^2/2 = w1 + w2 - w1^2/2 - w2^2/2
+09) A) ~0.41
+    B) 22
+10) A) B => H1: U!=200 
+    B) D => Not equal to; equals
